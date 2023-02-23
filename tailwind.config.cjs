@@ -8,7 +8,6 @@ module.exports = {
       },
       fontFamily: {
         serif: ['Bellefair', 'serif'],
-        serif2: ['Freehand', 'serif'],
       },
     },
   },
